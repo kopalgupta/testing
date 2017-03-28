@@ -1,1 +1,2 @@
 Hello! Sample for git session
+Edit 1.0
