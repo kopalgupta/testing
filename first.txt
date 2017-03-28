@@ -1,2 +1,3 @@
 Hello! Sample for git session
 Edit 1.0
+Edit 3.0
