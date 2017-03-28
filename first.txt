@@ -1,0 +1,1 @@
+Hello! Sample for git session
